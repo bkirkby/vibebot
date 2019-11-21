@@ -1,2 +1,0 @@
-# vibebot
-Created with CodeSandbox

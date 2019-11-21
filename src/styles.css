@@ -1,0 +1,31 @@
+body {
+  background-color: #565656;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #eaeaea;
+}
+
+.trim {
+  width: 300px;
+  height: 420px;
+  background-color: #000000;
+  text-align: center;
+  display: inline-block;
+}
+
+.panel {
+  position: relative;
+  height: calc(100% - 20px);
+  width: calc(100% - 20px);
+  left: 10px;
+  top: 10px;
+  background-color: white;
+}
+
+.panelImage {
+  height: 100%;
+  width: 100%;
+}
